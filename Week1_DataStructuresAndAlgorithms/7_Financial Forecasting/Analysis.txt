@@ -1,0 +1,11 @@
+ Time Complexity: O(n)
+
+how to optimize the recursive solution to avoid excessive computation ??
+
+Ans: 
+
+1. Use Memoization (Store Already Computed Results)
+
+2. Convert Recursion to Iteration
+
+3. Use a Direct Mathematical Formula [return currentVal * Math.pow(1 + growth, years);]
