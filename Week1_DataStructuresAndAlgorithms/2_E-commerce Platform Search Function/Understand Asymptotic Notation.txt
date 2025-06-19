@@ -1,0 +1,31 @@
+What is Big O Notation?
+
+Big O is a way to describe how fast or slow an algorithm is, especially as the amount of input (data) grows. Instead of measuring the exact time , Big O looks at the overall growth pattern.
+
+Why Is It Useful?
+
+It helps us answer questions like:
+
+1. Will this algorithm still work fast if I give it a million inputs?
+
+2. Is there a better way to solve this problem?
+
+Big O lets you compare algorithms in a way that’s independent of machines or actual speed — just focusing on how the algorithm scales.
+
+Best, Average, and Worst-case scenarios for search operations:-
+
+LINEAR SEARCH:
+
+BEST - O(1) [when the target element is the first element]
+
+AVG - O(n)
+
+WORST - O(n) [when the target element is the last element or not in the list]
+
+BINARY SEARCH:
+
+BEST - O(1) [when the target element is the mid element]
+
+AVG - O(log n)
+
+WORST - O(log n) [when the target element is the first or last element or not in the list]
