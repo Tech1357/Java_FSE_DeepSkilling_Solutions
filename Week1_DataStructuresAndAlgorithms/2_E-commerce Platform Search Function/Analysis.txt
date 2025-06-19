@@ -1,0 +1,17 @@
+Linear Search checks items one by one. Time grows linearly with the number of elements.
+
+Binary Search repeatedly splits the list in half. Time grows logarithmically — very efficient.
+
+We use Binary Search if:
+
+1. Your data is already sorted, or you can sort it once and search many times.
+
+2. You want things to be fast, especially if there are a lot of items.
+
+We use Linear Search if:
+
+1. Your data is not sorted, and you don’t want the extra work of sorting.
+
+2. The list is short, or you only need to search once or twice.
+
+3. You want a quick and simple solution.
