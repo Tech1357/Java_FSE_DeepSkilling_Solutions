@@ -1,0 +1,14 @@
+What is Recursion?
+
+Recursion means a function calling itself to solve a problem.
+
+Why to use Recursion?
+
+1. It’s useful when a problem can be broken into similar smaller problems.
+
+2. Common in trees, sorting (like QuickSort, MergeSort), and puzzles (like Tower of Hanoi).
+
+3. The problem has repeating subproblems.
+
+4. The solution involves backtracking or exploring different paths.
+
